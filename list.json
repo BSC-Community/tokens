@@ -106,7 +106,7 @@
       "address": "0xA656F993bD14B2B59a28d1e610476AD18849b107",
       "symbol": "SAFERMOON",
       "chainId": 56,
-      "decimals": 18,
+      "decimals": 9,
       "tags": [
         "reflect"
       ],
