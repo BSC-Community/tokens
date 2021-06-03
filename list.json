@@ -1,0 +1,143 @@
+{
+  "name": "BSC Community Tokens",
+  "timestamp": "2021-06-03T00:00:00.000Z",
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  },
+  "logoURI": "https://avatars.githubusercontent.com/u/85314039?s=200&v=4",
+  "keywords": [
+    "bsc",
+    "community"
+  ],
+  "tags": {
+    "farm": {
+      "name": "Yield Farming",
+      "description": "Traditional DeFi Yield Farming platforms"
+    },
+    "nft": {
+      "name": "NFT Platforms",
+      "description": "Platforms focusing on NFTs"
+    },
+    "reflect": {
+      "name": "Reflect Tokens",
+      "description": "Frictionless tokens that increase in quantity over time."
+    },
+    "stable": {
+      "name": "Algorithmic Stable",
+      "description": "Tokens that achieve price stability through pegged algorithm"
+    }
+  },
+  "tokens": [
+    {
+      "name": "Goose Defi",
+      "address": "0xF952Fc3ca7325Cc27D15885d37117676d25BfdA6",
+      "symbol": "EGG",
+      "chainId": 56,
+      "decimals": 18,
+      "tags": [
+        "farm"
+      ],
+      "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0xF952Fc3ca7325Cc27D15885d37117676d25BfdA6/logo.png"
+    },
+    {
+      "name": "Iron Finance",
+      "address": "0x7b65B489fE53fCE1F6548Db886C08aD73111DDd8",
+      "symbol": "IRON",
+      "chainId": 56,
+      "decimals": 18,
+      "tags": [
+        "stable"
+      ],
+      "logoURI": "https://bscscan.com/token/images/ironfinance_32.png"
+    },
+    {
+      "name": "Iron Finance",
+      "address": "0x9001eE054F1692feF3A48330cB543b6FEc6287eb",
+      "symbol": "STEEL",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/ironfinance-share_32.png"
+    },
+    {
+      "name": "Fortress",
+      "address": "0x4437743ac02957068995c48E08465E0EE1769fBE",
+      "symbol": "FTS",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x4437743ac02957068995c48E08465E0EE1769fBE/logo.png"
+    },
+    {
+      "name": "The Grand Banks",
+      "address": "0xd37eBaEb28c0A6C9a62D5c5c0119d464e28B367E",
+      "symbol": "GRAND",
+      "chainId": 56,
+      "decimals": 18,
+      "tags": [
+        "farm"
+      ],
+      "logoURI": "https://bscscan.com/token/images/grandtoken_32.png"
+    },
+    {
+      "name": "Squirrel Finance",
+      "address": "0x8893D5fA71389673C5c4b9b3cb4EE1ba71207556",
+      "symbol": "NUTS",
+      "chainId": 56,
+      "decimals": 18,
+      "tags": [
+        "farm"
+      ],
+      "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x8893D5fA71389673C5c4b9b3cb4EE1ba71207556/logo.png"
+    },
+    {
+      "name": "Rune.Farm",
+      "address": "0xA9776B590bfc2f956711b3419910A5Ec1F63153E",
+      "symbol": "RUNE",
+      "chainId": 56,
+      "decimals": 18,
+      "tags": [
+        "nft"
+      ],
+      "logoURI": "https://bscscan.com/token/images/runefarm_32.png"
+    },
+    {
+      "name": "Safermoon",
+      "address": "0xA656F993bD14B2B59a28d1e610476AD18849b107",
+      "symbol": "SAFERMOON",
+      "chainId": 56,
+      "decimals": 18,
+      "tags": [
+        "reflect"
+      ],
+      "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0xA656F993bD14B2B59a28d1e610476AD18849b107/logo.png"
+    },
+    {
+      "name": "Sponge",
+      "address": "0x3aabCf53A1930A42E18D938C019E83Ebee50a849",
+      "symbol": "SPG",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x3aabCf53A1930A42E18D938C019E83Ebee50a849/logo.png"
+    },
+    {
+      "name": "Sponge",
+      "address": "0x849233FF1aea15D80EF658B2871664C9Ca994063",
+      "symbol": "SOAK",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://bscscan.com/token/images/sponge-soak_32.png"
+    },
+    {
+      "name": "Blizzard.Money",
+      "address": "0x9a946c3Cb16c08334b69aE249690C236Ebd5583E",
+      "symbol": "xBLZD",
+      "chainId": 56,
+      "decimals": 18,
+      "tags": [
+        "farm"
+      ],
+      "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x9a946c3Cb16c08334b69aE249690C236Ebd5583E/logo.png"
+    }
+  ]
+}
