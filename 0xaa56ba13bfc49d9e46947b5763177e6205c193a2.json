@@ -1,0 +1,35 @@
+{
+"symbol": "JIO",
+"name": "jioyieldtoken",
+"type": "BEP20",
+"address": "0xaa56ba13bfc49d9e46947b5763177e6205c193a2",
+"ens_address": "",
+"decimals": 9,
+"website": "https://jyt.link",
+"logo": {
+"src": "https://bscscan.com/token/images/jioyieldtoken_32.png",
+"width": "32px",
+"height": "32px",
+"ipfs_hash": ""
+},
+"support": {
+"email": "enquiries@jyt.link",
+"url": "https://jyt.link"
+},
+"social": {
+"blog": "",
+"chat": "https://t.me/joinchat/GMOl623r4WxkNDVl",
+"discord": "",
+"facebook": "https://www.facebook.com/profile.php?id=100069978030554",
+"forum": "",
+"github": "https://github.com/Jioyield",
+"gitter": "",
+"instagram": "https://www.instagram.com/jioyield/",
+"linkedin": "",
+"reddit": "https://www.reddit.com/user/Jiotoken",
+"slack": "",
+"telegram": "https://t.me/JioYieldToken",
+"twitter": "https://twitter.com/tokenjio",
+"youtube": "https://www.youtube.com/channel/UCFpJfuLPHb-sgk6EKUoDZBw"
+}
+}
