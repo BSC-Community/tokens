@@ -1,9 +1,9 @@
 {
   "name": "BSC Community Tokens",
-  "timestamp": "2021-06-03T00:00:00.000Z",
+  "timestamp": "2021-08-04T00:00:00.000Z",
   "version": {
     "major": 0,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   },
   "logoURI": "https://avatars.githubusercontent.com/u/85314039?s=200&v=4",
@@ -19,6 +19,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0xCa3F508B8e4Dd382eE878A314789373D80A5190A/logo.png"
+    },
+    {
+      "name": "Moonpot",
+      "address": "0x3Fcca8648651E5b974DD6d3e50F61567779772A8",
+      "symbol": "POTS",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x3Fcca8648651E5b974DD6d3e50F61567779772A8/logo.png"
     },
     {
       "name": "Goose Defi",
