@@ -115,6 +115,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x9a946c3Cb16c08334b69aE249690C236Ebd5583E/logo.png"
-    }
+    },
+    {
+  "name": "Quazenthor",
+  "address": "0x013f5f2F7F5b027012415A783ac2ed69EF936aE8",
+  "symbol": "QWBQ",
+  "chainId": 56,
+  "decimals": 18,
+  "logoURI": "https://quazenthor.com/logo.png"
+}
   ]
 }
